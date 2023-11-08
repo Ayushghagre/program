@@ -1,5 +1,5 @@
 public class CreateList {  
-    //Represents the node of list.  
+    
     public class Node{  
         int data;  
         Node next;  
