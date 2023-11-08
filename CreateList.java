@@ -33,7 +33,7 @@ public class CreateList {
         }  
     }  
   
-    //Displays all the nodes in the list  
+   
     public void display() {  
         Node current = head;  
         if(head == null) {  
