@@ -8,7 +8,7 @@ public class CreateList {
         }  
     }  
   
-    //Declaring head and tail pointer as null.  
+    
     public Node head = null;  
     public Node tail = null;  
   
