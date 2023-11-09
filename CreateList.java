@@ -60,6 +60,7 @@ public class CreateList {
         cl.add(3);  
         cl.add(4);  
         cd.add(5);
+        cd.add(6);
         //Displays all the nodes present in the list  
         cl.display();  
     }  
