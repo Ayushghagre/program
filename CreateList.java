@@ -42,7 +42,7 @@ public class CreateList {
         else {  
             System.out.println("Nodes of the circular linked list: ");  
              do{  
-                //Prints each node by incrementing pointer.  
+               
                 System.out.print(" "+ current.data);  
                 current = current.next;  
             }while(current != head);  
